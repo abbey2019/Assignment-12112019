@@ -1,0 +1,269 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: black;
+}
+
+.container2{
+    background-color: whitesmoke;
+    height: auto;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.nav-links{
+    float: right;
+    padding-right: 320px;
+    padding-top: 05px;
+}
+
+.nav-links li{
+    display: inline;
+    padding-right: 10px;
+}
+
+.nav-links li a{
+    color: black;
+    text-decoration: none;
+    font-size: 13pt;
+    padding: 18px;
+}
+
+.nav-links li img{
+    width: 50px;
+    height: 25px;
+}
+
+
+
+
+.first-content{
+    background-color: whitesmoke;
+    height: auto;
+    background-size: cover;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.Content{
+    padding-top: 150px;
+}
+
+.content1{
+    display: inline-block;
+    width: 400px;
+    border: 1px solid whitesmoke;
+    margin-left: 150px;
+}
+
+.content1 h2{
+    font-size: 30pt;
+}
+
+.content1-img img{
+    width: 300px;
+    height: 200px;
+}
+.content1-img{
+    float: right;
+    width: 300px;
+    height: 200px;
+    border: 1px solid whitesmoke;
+    margin-top: -35px;
+    padding-right: 400px;
+}
+
+
+
+
+.second-content{
+    background-color: whitesmoke;
+    height: auto;
+    background-size: cover;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.Scontent{
+    padding-top: 250px;
+    padding-bottom: 100px;
+}
+
+.Scontent h2{
+    text-align: center;
+}
+
+.Scontent1{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    border: 1px solid whitesmoke;
+    margin-top: -18px;
+    padding-top: 50px;
+    padding-left: 150px;
+}
+
+.Scontent1 img{
+    width: 300px;
+    height: 200px;
+}
+
+.Scontent2{
+    float: right;
+    width: 400px;
+    border: 1px solid whitesmoke;
+    margin-right: 100px;
+    padding-top: 70px;
+}
+
+
+
+
+.third-content{
+    background-color: rgb(222, 243, 243);
+    height: 20%;
+    background-size: cover;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.logo-content{
+    display: flex;
+    padding-left: 130px;
+}
+
+.logo-content h2{
+    padding: 35px;
+    text-align: center;
+}
+
+
+
+
+.last-content{
+    background-color: whitesmoke;
+    height: auto;
+    background-size: cover;
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 40px;
+}
+
+.Card5-flex4{
+    display: flex;
+    margin-left: -13px;
+    padding: 40px;
+}
+
+.Fifcard1{
+    width: 30%;
+    height: auto;
+    background-color: white;
+    margin-top: 50px;
+    border: 1px solid whitesmoke;
+    line-height: 1.5;
+    text-align: center;
+    overflow: hidden;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+
+.Fifcard-body, h3, p{
+    font-size: 15px;
+    padding-top: 20px;
+    text-align: left;
+}
+
+.Fifcard2{
+    width: 30%;
+    height: auto;
+    background-color: white;
+    margin-top: 50px;
+    border: 1px solid whitesmoke;
+    line-height: 1.5;
+    text-align: center;
+    overflow: hidden;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+
+.Fifcard3{
+    width: 30%;
+    height: auto;
+    background-color: white;
+    margin-top: 50px;
+    border: 1px solid whitesmoke;
+    line-height: 1.5;
+    text-align: center;
+    overflow: hidden;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+
+.Fifcard4{
+    width: 30%;
+    height: auto;
+    background-color: white;
+    margin-top: 50px;
+    border: 1px solid whitesmoke;
+    line-height: 1.5;
+    text-align: center;
+    overflow: hidden;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+
+.Fifcard-image{
+    margin-top: -20px;
+}
+.Fifcard-image img{
+    width: 300px;
+    height: 120px;
+}
+
+.btn{
+    color: rgb(0, 119, 255);
+    width: 130px;
+    height: 40px;
+    border: 1px solid blue;
+    margin-top: 10px;
+    border-radius: 30px;
+    background-color: white;
+    margin-left: 450px;
+    margin-bottom: 100px;
+
+}
+
+.foot{
+    background-color: rgb(21, 55, 248);
+    height: auto;
+    background-size: cover;
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 40px;
+}
+
+.footerC{
+    display: inline-block;
+    padding-top: 15px;
+}
+
+.footerP{
+    float: right;
+    padding-right: 680px;
+}
+
+.footerC img{
+    width: 50px;
+    height: 30px;
+    margin-left: 130px;
+}
+
+.footerP p{
+    padding-left: 50px;
+    color: white;
+}
